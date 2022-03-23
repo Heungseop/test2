@@ -1,3 +1,4 @@
 add
 server edit
 server
+local
